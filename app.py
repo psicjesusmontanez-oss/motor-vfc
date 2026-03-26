@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # --- CONFIGURACIÓN DE LA PÁGINA WEB ---
-st.set_page_config(page_title="Índice de Estrés Fisiológico | VFC", layout="wide")
+st.set_page_config(page_title="Índice VFC", layout="wide")
 st.title("Arquitectura de Resiliencia Multidimensional (A.R.M.)")
 st.subheader("Plataforma de Diagnóstico Biométrico")
 
