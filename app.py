@@ -6,7 +6,8 @@ import seaborn as sns
 
 # --- CONFIGURACIÓN DE LA PÁGINA WEB ---
 st.set_page_config(page_title="Diagnóstico A.R.M. | VFC", layout="wide")
-st.title("Índice VFC programa Arquitectura de Resiliencia Multidimensional A.R.M.")
+st.title("Índice VFC 
+Programa Arquitectura de Resiliencia Multidimensional A.R.M.")
 st.subheader("Plataforma de Diagnóstico Biométrico")
 
 # --- PROTOCOLOS CLÍNICOS ---
